@@ -1,5 +1,5 @@
-def greet(name):
-    return f"Hello PIET, {name}!"
-# ayush dalla 
-if __name__ == "__main__":
-    print(greet("Maven Learning "))
+import numpy as np
+
+marks = np.array([75, 82, 91, 64])
+
+print(type(marks))
